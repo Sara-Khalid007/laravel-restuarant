@@ -63,19 +63,19 @@
           </a>
         </li>
         <li class="sidebar-item">
-          <a class="sidebar-link" href="./ui-forms.html" aria-expanded="false">
+          <a class="sidebar-link" href="{{route('orders.index')}}" aria-expanded="false">
             <span>
               <!-- <i class="ti ti-file-description"></i> -->
-              <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-people-fill" viewBox="0 0 16 16">
+              <!-- <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-people-fill" viewBox="0 0 16 16">
   <path d="M7 14s-1 0-1-1 1-4 5-4 5 3 5 4-1 1-1 1zm4-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6m-5.784 6A2.24 2.24 0 0 1 5 13c0-1.355.68-2.75 1.936-3.72A6.3 6.3 0 0 0 5 9c-4 0-5 3-5 4s1 1 1 1zM4.5 8a2.5 2.5 0 1 0 0-5 2.5 2.5 0 0 0 0 5"/>
 </svg>
             </span>
             <span class="hide-menu">Customers</span>
           </a>
-        </li>
-        <li class="sidebar-item">
+        </li> -->
+        <!-- <li class="sidebar-item">
           <a class="sidebar-link" href="./ui-typography.html" aria-expanded="false">
-            <span>
+            <span> -->
               <!-- <i class="ti ti-typography"></i> -->
               <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-file-arrow-up" viewBox="0 0 16 16">
   <path d="M8 11a.5.5 0 0 0 .5-.5V6.707l1.146 1.147a.5.5 0 0 0 .708-.708l-2-2a.5.5 0 0 0-.708 0l-2 2a.5.5 0 1 0 .708.708L7.5 6.707V10.5a.5.5 0 0 0 .5.5"/>
@@ -123,12 +123,12 @@
         </li> -->
         <li class="sidebar-item">
           <a class="sidebar-link" href="./icon-tabler.html" aria-expanded="false">
-            <span>
+            <!-- <span>
               <i class="ti ti-mood-happy"></i>
             </span>
             <span class="hide-menu">Icons</span>
           </a>
-        </li>
+        </li> -->
         <li class="sidebar-item">
           <a class="sidebar-link" href="./sample-page.html" aria-expanded="false">
             <span>

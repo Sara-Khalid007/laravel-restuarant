@@ -4,7 +4,7 @@ use App\Http\Controllers\AuthController;
 use App\Http\Controllers\DashboardController;
 use App\Http\Controllers\MenuController;
 use App\Http\Controllers\OrdersController;
-use App\Http\Controllers\ProductsController;
+use App\Http\Controllers\OredersController;
 use App\Http\Controllers\SettingsController;
 use App\Http\Controllers\WebsiteController;
 use Illuminate\Support\Facades\Route;
